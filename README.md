@@ -1,6 +1,6 @@
-# SwifTRoute-Logistics-PowerBI-dashboard
+# Logistics-PowerBI-dashboard
 Finding KPIs in Delivery, hubs and Driver details
-# 🚚 SwiftRoute Logistics Dashboard
+# 🚚 Logistics Analysis Dashboard
 
 ### 📖 Project Overview
 The **SwiftRoute Logistics Dashboard** is a comprehensive Power BI solution designed to optimize supply chain performance across Hubs, Drivers, and Vehicles. This project translates raw logistics data into actionable insights, enabling stakeholders to track KPIs like On-Time Delivery rates, Hub Capacity, and Fleet Maintenance risks.
