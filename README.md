@@ -9,26 +9,26 @@ The **SwiftRoute Logistics Dashboard** is a comprehensive Power BI solution desi
 I engineered a multi-page report to address specific business needs defined in the BRD:
 
 #### 1. Executive Overview
-* [cite_start]**KPI Tracking:** Monitoring **Total Orders**, **On-Time Delivery %**, **CSAT %**, and **Average Delivery Time** with Month-over-Month (MoM) growth/decline metrics[cite: 5, 9, 13, 17].
-* [cite_start]**Performance Snapshots:** High-level visibility into total Hubs, Drivers, and Vehicles to assess network size and fleet capacity[cite: 22, 35, 48].
+* **KPI Tracking:** Monitoring **Total Orders**, **On-Time Delivery %**, **CSAT %**, and **Average Delivery Time** with Month-over-Month (MoM) growth/decline metrics.
+* **Performance Snapshots:** High-level visibility into total Hubs, Drivers, and Vehicles to assess network size and fleet capacity.
 
 #### 2. Hub Performance & Capacity Analysis
-* **Capacity Planning:** Utilized Clustered Column Charts to compare **Orders Processed vs. Hub Capacity**, identifying bottlenecks in high-traffic locations[cite: 26, 65].
-* **Efficiency Ranking:** Ranked hubs by performance to pinpoint top-performing vs. underperforming centers[cite: 30, 69].
-* **Processing Speed:** Analyzed **Hub Order Processing Time** via Matrix charts to improve turnaround times[cite: 73].
+* **Capacity Planning:** Utilized Clustered Column Charts to compare **Orders Processed vs. Hub Capacity**, identifying bottlenecks in high-traffic locations.
+* **Efficiency Ranking:** Ranked hubs by performance to pinpoint top-performing vs. underperforming centers.
+* **Processing Speed:** Analyzed **Hub Order Processing Time** via Matrix charts to improve turnaround times.
 
 #### 3. Driver Performance & Workforce Planning
-* **Skill Gap Analysis:** Correlated **Experience vs. Rating** using Scatter Plots to identify training needs[cite: 39, 82].
-* **Delay Tracking:** Identified drivers with the highest delay frequency to enable targeted coaching[cite: 43, 86].
-* **Individual Profiles:** Created detailed driver cards showing Hire Date, Years of Experience, Star Rating, and Monthly Deliveries[cite: 90].
-* **Trend Analysis:** Visualized monthly trends of orders and on-time delivery percentages to understand seasonal demand[cite: 99].
+* **Skill Gap Analysis:** Correlated **Experience vs. Rating** using Scatter Plots to identify training needs.
+* **Delay Tracking:** Identified drivers with the highest delay frequency to enable targeted coaching.
+* **Individual Profiles:** Created detailed driver cards showing Hire Date, Years of Experience, Star Rating, and Monthly Deliveries.
+* **Trend Analysis:** Visualized monthly trends of orders and on-time delivery percentages to understand seasonal demand.
 
 #### 4. Fleet Management & Maintenance
-* **Fleet Readiness:** Monitored **Active vs. Maintenance** vehicle status using Donut charts[cite: 52, 108].
-* **Utilization:** Analyzed Total Orders by Vehicle Model (e.g., Freightliner, Mercedes Sprinter) to optimize fleet usage[cite: 56, 112].
+* **Fleet Readiness:** Monitored **Active vs. Maintenance** vehicle status using Donut charts.
+* **Utilization:** Analyzed Total Orders by Vehicle Model (e.g., Freightliner, Mercedes Sprinter) to optimize fleet usage.
 * **Breakdown Analysis:**
-    * **Age vs. Reliability:** Scatter plots comparing **Vehicle Age vs. Breakdowns** to identify aging assets with high maintenance risks[cite: 116].
-    * **Model Reliability:** Compared breakdown frequency across vehicle models and specific vehicle codes to support targeted maintenance actions[cite: 120, 124].
+    * **Age vs. Reliability:** Scatter plots comparing **Vehicle Age vs. Breakdowns** to identify aging assets with high maintenance risks.
+    * **Model Reliability:** Compared breakdown frequency across vehicle models and specific vehicle codes to support targeted maintenance actions.
 
 ### 🛠️ Technical Stack
 * **Power BI Desktop:** Data visualization, bookmark navigation, and interactive filtering.
